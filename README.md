@@ -8,11 +8,11 @@
 <p align="left"> <a href="https://twitter.com/im_adesh_pratap" target="blank"><img src="https://img.shields.io/twitter/follow/im_adesh_pratap?logo=twitter&style=for-the-badge" alt="im_adesh_pratap" /></a> </p>
 
 - 📫 How to reach me **adeshpratapsingh16@gmail.com**
- <p>👉 Linktree (https://linktr.ee/adeshpratapsingh)</p>
+ <p> 👉 Linktree (https://linktr.ee/adeshpratapsingh)</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/im_adesh_pratap" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="im_adesh_pratap" height="30" width="40" /></a>
+<a href="http://www.instagram.com/iam_adesh_pratap/" target="blank"><img align="center" src="Assets/instagram.jpg" alt="iam_adesh_pratap" height="30" width="40" /></a>
 <a href="https://fb.com/adesh.pratapsingh.587" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="adesh.pratapsingh.587" height="30" width="40" /></a>
 <a href="https://instagram.com/iam_adesh_pratap" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="iam_adesh_pratap" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/adesh_pratap" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="adesh_pratap" height="30" width="40" /></a>

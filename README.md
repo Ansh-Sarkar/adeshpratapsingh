@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/im_adesh_pratap" target="blank"><img src="https://img.shields.io/twitter/follow/im_adesh_pratap?logo=twitter&style=for-the-badge" alt="im_adesh_pratap" /></a> </p>
 
 - 📫 How to reach me **adeshpratapsingh16@gmail.com**
- <p>- 📫 Linktree (https://linktr.ee/adeshpratapsingh)</p>
+ <p> Linktree (https://linktr.ee/adeshpratapsingh)</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

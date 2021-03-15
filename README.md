@@ -16,6 +16,7 @@
 <a href="https://fb.com/adesh.pratapsingh.587" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="adesh.pratapsingh.587" height="30" width="40" /></a>
 <a href="https://instagram.com/iam_adesh_pratap" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="iam_adesh_pratap" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/adesh_pratap" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="adesh_pratap" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/adeshpratapsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/adeshpratapsingh/adeshpratapsingh/main/hackerrank%20logo.png" alt="adeshpratapsingh" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/adeshpratapsingh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="adeshpratapsingh" height="30" width="40" /></a>
 </p>
 
